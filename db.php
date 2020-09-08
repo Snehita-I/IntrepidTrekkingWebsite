@@ -3,7 +3,7 @@ function createdb(){
     $servername="localhost";
     $username="root";
     $password="";
-    $dbname="intrepidtrekkers";
+    $dbname="trekking";
 
     $con=mysqli_connect($servername,$username,$password,$dbname);
 
